@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to Lu-Han Wang's studio 👋
+
+Here is some personal information about me:
+
+- 🔭 I’m a Back-End Engineer
+- 🌱 National Taiwan University - M.S., Civil Engineering - Transportation Engineering
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lu-han-wang-28a7492a0/)
+- ⚡ Fun fact: Similar to Elon Musk, I am an INTJ personality type.
 
 <!--
 **luhanwangdev/luhanwangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
